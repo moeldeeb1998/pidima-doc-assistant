@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: pidima-doc-assistant
+
+server:
+  port: 8080
+
+app:
+  retentionDays: 30
+
+logging:
+  level:
+    root: INFO
